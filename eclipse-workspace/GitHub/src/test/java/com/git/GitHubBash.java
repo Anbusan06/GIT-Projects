@@ -16,15 +16,15 @@ public class GitHubBash {
 	}
 	public void method05() {
 
-		System.out.println("SQL");
+		System.out.println("PLSQL");
 	}
 	public void method07() {
 
-		System.out.println("SQL");
+		System.out.println("API");
 	}
 	public void method09() {
 
-		System.out.println("SQL");
+		System.out.println("TestNG");
 	}
 	
 }
