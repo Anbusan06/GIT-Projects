@@ -14,4 +14,17 @@ public class GitHubBash {
 
 		System.out.println("SQL");
 	}
+	public void method05() {
+
+		System.out.println("SQL");
+	}
+	public void method07() {
+
+		System.out.println("SQL");
+	}
+	public void method09() {
+
+		System.out.println("SQL");
+	}
+	
 }
