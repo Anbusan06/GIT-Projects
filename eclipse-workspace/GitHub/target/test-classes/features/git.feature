@@ -6,5 +6,5 @@ Feature: verify OMR Branch login
     And user click on the login button
     Then user should verify the login succes message
      Examples:
-      |userName|password|
+     
       |anbu.santh061@gmail.com|Anbu@1711|
