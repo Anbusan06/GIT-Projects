@@ -14,15 +14,15 @@ public class GitHubBash {
 
 		System.out.println("SQL");
 	}
-	public void method04() {
+	public void playwright() {
 
-		System.out.println("PLSQL");
+		System.out.println("playwright");
 	}
-	public void method05() {
+	public void selenium() {
 
-		System.out.println("API");
+		System.out.println("selenium");
 	}
-	public void method06() {
+	public void testNg() {
 
 		System.out.println("TestNG");
 	}
