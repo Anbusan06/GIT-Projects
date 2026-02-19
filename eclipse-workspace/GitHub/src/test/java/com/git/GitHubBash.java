@@ -14,9 +14,9 @@ public class GitHubBash {
 
 		System.out.println("SQL");
 	}
-	public void playwright() {
+	public void cucumber() {
 
-		System.out.println("playwright");
+		System.out.println("cucumber");
 	}
 	public void selenium() {
 
